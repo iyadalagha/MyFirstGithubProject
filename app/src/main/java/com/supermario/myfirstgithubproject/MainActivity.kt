@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         var s = Student("Ahmed")
         Log.d("tt","Hello")
+        Log.d("tt","Hi")
     }
 }
